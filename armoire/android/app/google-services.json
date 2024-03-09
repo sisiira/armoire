@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251845818002",
+    "project_id": "armoire-flutter",
+    "storage_bucket": "armoire-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251845818002:android:890553a3075e7dcd94584b",
+        "android_client_info": {
+          "package_name": "com.example.arm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251845818002-udg6p3n15dnhqneqsrsh3ljf5r44da5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSmkHeiO6flHPOd56OHr2CZ0ztPlyzgIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251845818002-udg6p3n15dnhqneqsrsh3ljf5r44da5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
